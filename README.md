@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @RoseliOliver-dev
-- 🎓 Systems Analysis and Development student at Anhanguera University, currently exploring the vast world of technology.
-- 📚 Bootcamp in progress: Dedicating myself to improving my skills and learning new languages and frameworks.
-- 💡 Enthusiastic beginner: Although I am just starting out on my journey, I am excited to grow and evolve in the development space.
-- 💻 Featured project: My first project was a system created in Excel VBA, which sparked my interest in automation and developing practical solutions.
-- 📈 Goals and Vision: Develop solid programming and problem-solving skills. Contribute to open-source projects and collaborate with other developers. Continue learning and growing in my IT career.
-- 🔍 Personal interests: Passionate about new technologies and innovation. Always looking for challenges that take me out of my comfort zone.
+# 👋 Olá, sou Roseli Oliver (@RoseliOliver-dev)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhanguera, atualmente explorando o universo da tecnologia com entusiasmo e dedicação.
+📚 Em constante aprendizado: participando de bootcamps e cursos voltados ao desenvolvimento web, linguagens de programação e frameworks modernos.
+💡 Apaixonada por inovação: iniciante motivada, buscando evoluir como desenvolvedora e criar soluções práticas e eficientes.
+💻 Projeto em destaque: meu primeiro sistema foi desenvolvido em Excel VBA, despertando meu interesse por automação e pela criação de ferramentas que otimizam processos.
+
+🚀 Objetivos:
+- Aprimorar habilidades em programação e resolução de problemas
+- Contribuir com projetos de código aberto
+- Colaborar com outros desenvolvedores
+- Construir uma carreira sólida e versátil na área de TI
+
+🔍 Interesses:
+Tecnologias emergentes, automação, sistemas de gestão, desenvolvimento web, intranet corporativa e tudo que desafie minha zona de conforto.
+
+---
+
+📫 **Vamos conectar?**
+Sinta-se à vontade para explorar meus repositórios, deixar sugestões ou trocar ideias sobre tecnologia e desenvolvimento!
+
 <!---
 RoseliOliver-dev/RoseliOliver-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
