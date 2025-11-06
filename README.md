@@ -1,8 +1,8 @@
-# 👋 Olá, sou Roseli Oliver (@RoseliOliver-dev)
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhanguera, atualmente explorando o universo da tecnologia com entusiasmo e dedicação.
-📚 Em constante aprendizado: participando de bootcamps e cursos voltados ao desenvolvimento web, linguagens de programação e frameworks modernos.
-💡 Apaixonada por inovação: iniciante motivada, buscando evoluir como desenvolvedora e criar soluções práticas e eficientes.
-💻 Projeto em destaque: meu primeiro sistema foi desenvolvido em Excel VBA, despertando meu interesse por automação e pela criação de ferramentas que otimizam processos.
+-👋 Olá, sou Roseli Oliver (@RoseliOliver-dev)
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhanguera, atualmente explorando o universo da tecnologia com entusiasmo e dedicação.
+- 📚 Em constante aprendizado: participando de bootcamps e cursos voltados ao desenvolvimento web, linguagens de programação e frameworks modernos.
+- 💡 Apaixonada por inovação: iniciante motivada, buscando evoluir como desenvolvedora e criar soluções práticas e eficientes.
+- 💻 Projeto em destaque: meu primeiro sistema foi desenvolvido em Excel VBA, despertando meu interesse por automação e pela criação de ferramentas que otimizam processos.
 
 🚀 Objetivos:
 - Aprimorar habilidades em programação e resolução de problemas
